@@ -1,10 +1,10 @@
 ## 1. Aplicação escolhida e objetivos
 Aplicação: Sistema de Perguntas e Respostas (FAQ) sobre um tema específico (exemplo: História do Brasil).
 Objetivos principais:
-•	Permitir que o usuário faça perguntas livres sobre História do Brasil.
-•	O modelo LLM responde de forma clara, precisa e contextualizada.
-•	Usar LangChain para gerenciar a lógica de interação, recuperação de contexto e controle da conversa.
-•	Criar uma interface web simples e interativa com Streamlit.
+1. Permitir que o usuário faça perguntas livres sobre História do Brasil.
+2. O modelo LLM responde de forma clara, precisa e contextualizada.
+3. Usar LangChain para gerenciar a lógica de interação, recuperação de contexto e controle da conversa.
+4. Criar uma interface web simples e interativa com Streamlit.
 
 ## 2. Arquitetura do aplicativo
 Componentes principais:

@@ -12,5 +12,5 @@ Permitir que qualquer usuário obtenha respostas contextualizadas sobre a Histó
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/AlexandreZancope/faq_historia_brasil.git
+git clone https://github.com/AlexandreZancope/faq-historia-brasil.git
 cd faq_historia_brasil
